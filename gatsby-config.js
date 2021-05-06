@@ -4,8 +4,8 @@ module.exports = {
   siteMetadata: {
     title: 'Arjun K Prasad',
     description:
-      'Arjun K Prasad is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://portfolio-arjun1237.vercel.app', // No trailing slash allowed!
+      'Arjun K Prasad is a software engineer who specializes in building full stack web applications.',
+    siteUrl: 'https://arjun-portfolio.vercel.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@arjun1237_kp',
   },
