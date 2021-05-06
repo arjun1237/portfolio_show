@@ -125,7 +125,20 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'React', 'Eleventy', 'Vue', 'Node.js', 'WordPress'];
+  const skills = [
+    'JavaScript',
+    'React',
+    'Redux',
+    'HTML',
+    'CSS',
+    'Node.js',
+    'ExpressJS',
+    'Material UI',
+    'Bootstrap',
+    'SQL',
+    'NoSQL',
+    'Git',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,21 +148,21 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hello! My name is Arjun and I am a Software Developer with two years of experience in
+              complex enterprise to minor in-house applications. Have a strong grasp of industry
+              standards and efficiency in methodologies such as Agile. Comfortable working on
+              independent as well as in collaborative projects. Also possess four years of
+              experience in various other fields with transferable skills.
             </p>
 
             <p>
               Fast-forward to today, and I've had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              <a href="https://ffx.co.uk/">an e-retail company</a>, and{' '}
+              <a href="https://www.hpe.com/in/en/home.html">
+                a multinational enterprise IT company
+              </a>
+              , main focus these days is building in-house applications and delivering lectures at{' '}
+              <a href="https://www.masaischool.com/">Masai School</a>.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>

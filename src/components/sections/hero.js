@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import styled from 'styled-components';
-import { email } from '@config';
+import { socialMedia } from '@config';
 import { navDelay, loaderDelay } from '@utils';
 import { usePrefersReducedMotion } from '@hooks';
 
@@ -59,18 +59,22 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Brittany Chiang.</h2>;
-  const three = <h3 className="big-heading">I build things for the web.</h3>;
+  const two = <h2 className="big-heading">Arjun K Prasad.</h2>;
+  const three = <h3 className="big-heading">I build stuffs for the web.</h3>;
   const four = (
     <p>
-      I'm a Boston-based software engineer who specializes in building (and occasionally designing)
-      exceptional digital experiences. Currently, I'm an engineer at{' '}
-      <a href="https://upstatement.com/">Upstatement</a> focused on building accessible,
+      I'm a Bengaluru-based software engineer who specializes in building full stack web
+      applications. Currently, I'm an Instructional Associate / Software Developer at{' '}
+      <a href="https://upstatement.com/">Masai School</a> focused on building accessible,
       human-centered products.
     </p>
   );
   const five = (
-    <a href={`mailto:${email}`} className="email-link">
+    <a
+      href={`${socialMedia.find(el => el.name === 'Linkedin').url}`}
+      className="email-link"
+      target="_black"
+      rel="noopener noreferrer">
       Get In Touch
     </a>
   );
