@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '2017/07/15'
 title: 'Dot.Connect'
 github: 'https://github.com/arjun1237/Dot.Connect-Authentication-Service-Provider'
 external: ''

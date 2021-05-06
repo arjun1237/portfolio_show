@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '2015/09/15'
 title: 'DotCom - BattleShip'
 github: 'https://github.com/arjun1237/DotCom.BattleShipGame'
 external: ''

@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2020/05/02'
 title: 'Genie - The Cupid'
 github: 'https://github.com/arjun1237/genie_the_cupid'
 external: 'https://arjun1237.github.io/genie_the_cupid/'

@@ -1,5 +1,5 @@
 ---
-date: '8'
+date: '2020/08/23'
 title: 'Stimer'
 github: 'https://github.com/arjun1237/stimer'
 external: 'https://stimer-arjun1237.vercel.app/'

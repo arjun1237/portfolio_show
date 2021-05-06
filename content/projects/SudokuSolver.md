@@ -1,5 +1,5 @@
 ---
-date: '7'
+date: '2020/08/10'
 title: 'Sudoku Solver'
 github: 'https://github.com/arjun1237/sudoku.solver'
 external: 'https://sudoku-solver-arjun1237.vercel.app/'
