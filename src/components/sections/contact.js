@@ -75,7 +75,9 @@ const TableStyles = styled.table`
   .sMedia a {
     color: var(--light-slate);
     padding: 5px 15px 5px 0;
-    margin-right: 10px;
+    /* margin-right: 10px; */
+    padding: 10px;
+    /* margin */
   }
 
   .sMedia a:hover > svg {
