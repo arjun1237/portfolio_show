@@ -2,8 +2,7 @@
 date: '2'
 title: 'FFX E-commerce Website'
 cover: './ffx-img.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+external: 'https://ffx.co.uk/'
 tech:
   - C#.NET
   - MVC architecture

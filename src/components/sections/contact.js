@@ -152,10 +152,6 @@ const Contact = () => {
             <td>Location :</td>
             <td>Bengaluru</td>
           </tr>
-          <tr>
-            <td>Willing to relocate? :</td>
-            <td>Yes, after pandemic ends.</td>
-          </tr>
         </tbody>
       </TableStyles>
     </StyledContactSection>

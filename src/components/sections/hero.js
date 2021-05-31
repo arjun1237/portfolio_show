@@ -65,7 +65,7 @@ const Hero = () => {
     <p>
       I'm a Bengaluru-based software engineer who specializes in building full stack web
       applications. Currently, I'm an Instructional Associate / Software Developer at{' '}
-      <a href="https://upstatement.com/">Masai School</a> focused on building accessible,
+      <a href="https://www.masaischool.com/">Masai School</a> focused on building accessible,
       human-centered products.
     </p>
   );

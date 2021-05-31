@@ -2,6 +2,7 @@
 date: '3'
 title: 'Masai Refresh'
 cover: './masai-ref-img.png'
+github: 'https://github.com/masai-oss/Masai_Refresh'
 external: 'https://refresh.masai.tech/'
 tech:
   - NodeJS
