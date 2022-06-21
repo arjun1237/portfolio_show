@@ -1,5 +1,5 @@
 ---
-date: '2020/06/20'
+date: '5'
 title: 'Keyboard'
 github: 'https://github.com/arjun1237/keyboard'
 external: 'https://arjun1237.github.io/keyboard/'

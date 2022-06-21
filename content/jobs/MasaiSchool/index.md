@@ -3,7 +3,7 @@ date: '6'
 title: 'Instructional Associate | Software Developer'
 company: 'Masai School'
 location: 'Bengaluru, INDIA'
-range: 'Oct 2020 - Present'
+range: 'Oct 2020 - June 2021'
 url: 'https://www.masaischool.com/'
 ---
 

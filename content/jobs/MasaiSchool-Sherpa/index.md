@@ -2,7 +2,7 @@
 date: '5'
 title: 'Sherpa (Part Time)'
 company: 'Masai School (PT)'
-location: 'Bengaluru India'
+location: 'Bengaluru, India'
 range: 'August - October 2020'
 url: 'https://www.masaischool.com/'
 ---

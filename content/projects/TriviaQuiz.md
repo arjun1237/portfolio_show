@@ -1,5 +1,5 @@
 ---
-date: '2020/06/06'
+date: '6'
 title: 'Trivia Quiz'
 github: 'https://github.com/arjun1237/trivia_quiz'
 external: 'https://arjun1237.github.io/trivia_quiz/index.html'

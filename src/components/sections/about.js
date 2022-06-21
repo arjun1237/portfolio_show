@@ -129,14 +129,8 @@ const About = () => {
     'JavaScript',
     'React',
     'Redux',
-    'HTML',
-    'CSS',
-    'Node.js',
-    'ExpressJS',
+    'HTML/CSS',
     'Material UI',
-    'Bootstrap',
-    'SQL',
-    'NoSQL',
     'Git',
   ];
 
@@ -148,7 +142,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Arjun and I am a Software Developer with two years of experience in
+              Hello! My name is Arjun and I am a Software Developer with three years of experience in
               complex enterprise to minor in-house applications. Have a strong grasp of industry
               standards and efficiency in methodologies such as Agile. Comfortable working on
               independent as well as in collaborative projects. Also possess four years of
@@ -156,13 +150,12 @@ const About = () => {
             </p>
 
             <p>
-              Fast-forward to today, and I've had the privilege of working at{' '}
-              <a href="https://ffx.co.uk/">an e-retail company</a>, and{' '}
-              <a href="https://www.hpe.com/in/en/home.html">
-                a multinational enterprise IT company
-              </a>
-              , main focus these days is building in-house applications and delivering lectures at{' '}
-              <a href="https://www.masaischool.com/">Masai School</a>.
+              Fast-forward to today, and I've had the privilege of having worked at{' '}
+              <a href="https://ffx.co.uk/">an e-retail company</a>,{' '}
+              <a href="https://www.masaischool.com/">
+                an edu-tech start-up
+              </a>. My main focus these days has been to build a complete game ecosystem for{' '}
+              <a href="https://www.mpl.live/">MPL</a> games, in mobile gaming space.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>

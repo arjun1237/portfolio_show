@@ -63,10 +63,8 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build web-apps end-to-end.</h3>;
   const four = (
     <p>
-      I'm a Bengaluru-based software engineer who specializes in building full stack web
-      applications. Currently, I'm an Instructional Associate / Software Developer at{' '}
-      <a href="https://www.masaischool.com/">Masai School</a> focused on building accessible,
-      human-centered products.
+      I'm a Software Developer who specializes in building web applications. 
+      Currently, I'm working at{' '} <a href="https://www.mpl.live/">MPL</a> focused on building game related products.
     </p>
   );
   const five = (

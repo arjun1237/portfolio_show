@@ -1,5 +1,5 @@
 ---
-date: '2020/06/17'
+date: '7'
 title: 'Cardom'
 github: 'https://github.com/arjun1237/cardom'
 external: 'https://arjun1237.github.io/cardom/'
