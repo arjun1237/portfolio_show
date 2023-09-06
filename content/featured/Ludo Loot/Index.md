@@ -1,7 +1,7 @@
 ---
 date: '4'
 title: 'Ludo Loot'
-cover: './ludo-loot-img.png'
+cover: './ludo-loot.png'
 external: 'https://drive.google.com/file/d/1d0MeU95UnNEVbxmIMDStI7YxTGQNUtD-/view?usp=sharing'
 tech:
   - NextJS

@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'FFX E-commerce Website'
-cover: './ffx-img.png'
+cover: './ffx.png'
 external: 'https://ffx.co.uk/'
 tech:
   - C#.NET

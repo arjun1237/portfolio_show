@@ -1,7 +1,7 @@
 ---
 date: '0'
 title: 'Chitrakala'
-cover: './chitrakala-img.png'
+cover: './chitrakala.png'
 github: 'https://github.com/arjun1237/chitrakala'
 external: 'https://chitrakala-arjun1237.vercel.app/'
 tech:

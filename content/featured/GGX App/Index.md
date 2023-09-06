@@ -1,7 +1,7 @@
 ---
 date: '5'
 title: 'GGX for Striker app'
-cover: './ggx-app.jpeg'
+cover: './ggx.jpeg'
 external: 'https://striker.club/'
 tech:
   - NextJS
