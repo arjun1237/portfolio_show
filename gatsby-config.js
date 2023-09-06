@@ -1,12 +1,12 @@
 const config = require('./src/config');
 
 module.exports = {
-  pathPrefix: '/portfolio_v4',
+  pathPrefix: '/portfolio_show',
   siteMetadata: {
     title: 'Arjun K P',
     description:
-      'Arjun K P is a software engineer who specializes in building full stack web applications.',
-    siteUrl: 'https://arjun1237.github.io/portfolio_v4/', // No trailing slash allowed!
+      'Arjun K P is a software engineer who specializes in building react/nextJS based web applications.',
+    siteUrl: 'https://arjun1237.github.io/portfolio_show/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
   },
   plugins: [
@@ -20,7 +20,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'ArjunKP',
+        name: 'Arjun KP',
         short_name: 'Arjun',
         start_url: '/',
         background_color: config.colors.darkNavy,
