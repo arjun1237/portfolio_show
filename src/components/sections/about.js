@@ -126,12 +126,14 @@ const About = () => {
   }, []);
 
   const skills = [
-    'JavaScript',
     'React',
-    'Redux',
-    'HTML/CSS',
+    'Next JS',
+    'Redux Toolkit',
+    'TanStack Query',
+    'Zustand',
+    'TypeScript',
     'Material UI',
-    'Git',
+    'JS (ES 6+)',
   ];
 
   return (
@@ -142,20 +144,10 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Arjun and I am a Software Developer with three years of experience in
-              complex enterprise to minor in-house applications. Have a strong grasp of industry
-              standards and efficiency in methodologies such as Agile. Comfortable working on
-              independent as well as in collaborative projects. Also possess four years of
-              experience in various other fields with transferable skills.
-            </p>
-
-            <p>
-              Fast-forward to today, and I've had the privilege of having worked at{' '}
-              <a href="https://ffx.co.uk/">an e-retail company</a>,{' '}
-              <a href="https://www.masaischool.com/">
-                an edu-tech start-up
-              </a>. My main focus these days has been to build a complete game ecosystem for{' '}
-              <a href="https://www.mpl.live/">MPL</a> games, in mobile gaming space.
+              Hello!! I am a software developer with 3.5 years of experience in building complex
+              enterprise level to in-house applications. Seeking full-time FrontendEngineering
+              positions. Proficient in independent and collaborative projects. Dedicated to creating
+              user-centered software solutions.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
