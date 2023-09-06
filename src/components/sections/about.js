@@ -144,7 +144,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello!! I am a software developer with 3.5 years of experience in building complex
+              Hello!! I am a software engineer with 3.5 years of experience in building complex
               enterprise level to in-house applications. Seeking full-time Frontend Engineering
               positions. Proficient in independent and collaborative projects. Dedicated to creating
               user-centered software solutions.

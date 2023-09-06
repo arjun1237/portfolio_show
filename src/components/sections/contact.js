@@ -104,15 +104,15 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I'm currently actively looking for any new opportunities, in full-stack web development. If
-        you are an employer looking for dedicated web developer, HIRE me before someone else does.
+        I'm currently actively looking for new opportunities in frontend development roles. If you
+        are an employer looking for dedicated software engineer, HIRE me before someone else does.
       </p>
 
       <TableStyles>
         <tbody>
           <tr>
             <td>Name :</td>
-            <td>Arjun K Prasad</td>
+            <td>Arjun K P</td>
           </tr>
           <tr>
             <td>Email :</td>
