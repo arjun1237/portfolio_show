@@ -2,9 +2,9 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Arjun K Prasad',
+    title: 'Arjun K P',
     description:
-      'Arjun K Prasad is a software engineer who specializes in building full stack web applications.',
+      'Arjun K P is a software engineer who specializes in building full stack web applications.',
     siteUrl: 'https://arjun-portfolio.vercel.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@arjun1237_kp',
@@ -20,7 +20,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'ArjunKPrasad',
+        name: 'ArjunKP',
         short_name: 'Arjun',
         start_url: '/',
         background_color: config.colors.darkNavy,
