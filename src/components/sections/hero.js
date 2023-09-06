@@ -60,7 +60,7 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Arjun K P.</h2>;
-  const three = <h3 className="big-heading">I am a frontend developer.</h3>;
+  const three = <h3 className="big-heading">I am a frontend engineer.</h3>;
   const four = (
     <p>
       I'm a Software Engineer who specializes in building react/next.js based web-applications.
