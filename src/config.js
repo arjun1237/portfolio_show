@@ -12,10 +12,6 @@ module.exports = {
       url: 'https://github.com/arjun1237',
     },
     {
-      name: 'Twitter',
-      url: 'https://twitter.com/arjun1237_kp',
-    },
-    {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/arjun1237/',
     },
