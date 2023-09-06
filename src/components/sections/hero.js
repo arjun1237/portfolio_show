@@ -60,11 +60,13 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Arjun K Prasad.</h2>;
-  const three = <h3 className="big-heading">I build web-apps end-to-end.</h3>;
+  const three = <h3 className="big-heading">I am a frontend developer.</h3>;
   const four = (
     <p>
-      I'm a Software Developer who specializes in building web applications. 
-      Currently, I'm working at{' '} <a href="https://www.mpl.live/">MPL</a> focused on building game related products.
+      I'm a Software Developer who specializes in building react/next.js based web-applications.
+      Currently, I'm working at{' '}
+      <a href="https://www.linkedin.com/company/good-game-exchange/mycompany/">GGX</a>, focused on
+      building game related products.
     </p>
   );
   const five = (
