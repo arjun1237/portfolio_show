@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://arjun-portfolio.vercel.app/sitemap.xml
+Host: https://arjun-portfolio.vercel.app
