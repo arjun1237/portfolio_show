@@ -139,13 +139,6 @@ const Contact = () => {
                 rel="noopener noreferrer">
                 <Icon name={'Linkedin'} />
               </a>
-              <a
-                href="https://twitter.com/arjun1237_kp"
-                title="Twitter Link"
-                target="_blank"
-                rel="noopener noreferrer">
-                <Icon name={'Twitter'} />
-              </a>
             </td>
           </tr>
           <tr>
