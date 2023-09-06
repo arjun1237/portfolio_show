@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '0'
 title: 'Chitrakala'
 cover: './chitrakala-img.png'
 github: 'https://github.com/arjun1237/chitrakala'

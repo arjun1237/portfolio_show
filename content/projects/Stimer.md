@@ -1,7 +1,6 @@
 ---
-date: '3'
+date: '9'
 title: 'Stimer'
-cover: './stimer.png'
 github: 'https://github.com/arjun1237/stimer'
 external: 'https://stimer-arjun1237.vercel.app/'
 tech:
