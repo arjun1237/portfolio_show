@@ -292,6 +292,7 @@ const Jobs = () => {
                           {company}
                         </a>
                       </span>
+                      <span> {company === 'GGX' ? '(transferred from MPL)' : ''}</span>
                     </h3>
 
                     <p className="range">{range}</p>

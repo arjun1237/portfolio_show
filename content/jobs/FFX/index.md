@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '1'
 title: 'Application Developer'
 company: 'FFX'
 location: 'Lympne, UK'
@@ -7,7 +7,5 @@ range: 'October 2017 - November 2018'
 url: 'https://web.northeastern.edu/scout/'
 ---
 
-- Contributed to development and design of several user-friendly, in-house applications, including e-commerce website.
-- Successfully developed RESTful APIs for the Epos System and E-Commerce Website, utilizing .NET Core framework.
-- Expedited e-commerce webpage loading by few seconds on modification of a legacy algorithm, utilizing LINQ.
-- Authored several MSTest for application debugging purpose for complex integrated applications.
+- Achieved an substantial acceleration of approximately 70% in the loading speed of an e-commerce webpage through the strategic overhaul of a legacy algorithm within the C#.NET framework.
+- Crafted multiple MSTest cases for integrated applications, contributing to the refinement and optimization of the overall application performance.
