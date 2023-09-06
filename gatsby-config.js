@@ -1,13 +1,13 @@
 const config = require('./src/config');
 
 module.exports = {
+  pathPrefix: '/portfolio_v4',
   siteMetadata: {
     title: 'Arjun K P',
     description:
       'Arjun K P is a software engineer who specializes in building full stack web applications.',
-    siteUrl: 'https://arjun-portfolio.vercel.app', // No trailing slash allowed!
+    siteUrl: 'https://arjun1237.github.io/portfolio_v4/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@arjun1237_kp',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
