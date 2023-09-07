@@ -6,7 +6,7 @@ module.exports = {
     title: 'Arjun K P',
     description:
       'Arjun K P is a software engineer who specializes in building react/nextJS based web applications.',
-    siteUrl: 'https://arjun1237.github.io/portfolio_show/', // No trailing slash allowed!
+    siteUrl: 'https://arjun1237.github.io/portfolio_show', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
   },
   plugins: [
